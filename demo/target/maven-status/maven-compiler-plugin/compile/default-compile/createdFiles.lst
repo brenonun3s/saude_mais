@@ -1,0 +1,5 @@
+com\projetosaude\demo\repository\UsuarioRepository.class
+com\projetosaude\demo\model\Sintoma.class
+com\projetosaude\demo\service\UsuarioService.class
+com\projetosaude\demo\Application.class
+com\projetosaude\demo\model\Usuario.class
